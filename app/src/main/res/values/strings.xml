@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sinav Not Ortalama</string>
+    <string name="editTextNumber1">LÜtfen Birinci Sınav Notunuzu Giriniz.</string>
+    <string name="editTextNumber2">LÜtfen İkinci Sınav Notunuzu Giriniz.</string>
+    <string name="editTextNumber3">LÜtfen Üçüncü Sınav Notunuzu Giriniz.</string>
+    <string name="editTextNumber4">LÜtfen Dördüncü Sınav Notunuzu Giriniz.</string>
+    <string name="button">Hesapla</string>
+    <string name="TextView">Sonuç</string>
+</resources>
